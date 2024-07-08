@@ -1,0 +1,2 @@
+message = 'hoo'
+print(message)
